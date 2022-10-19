@@ -1,4 +1,4 @@
-# Learn `git` concepts, not commands - Alex B modified this
+# Learn `git` concepts, not commands - Alex Bravo modified this
 
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
